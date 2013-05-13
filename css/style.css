@@ -40,13 +40,14 @@ img {
 }
 
 #row1 section {
+	font:'News Cycle', arial, sans-serif;
 	display: block;
 	float:left;
 	}
 
 
 #row2 section {
-	display: block;
+	font: 'News Cycle', arial, sans-serif;display: block;
 	float:left;
 	}
 #modules, #yourpages, #twitter {
