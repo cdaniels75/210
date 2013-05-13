@@ -408,6 +408,7 @@ table tr th {
   padding: 7px 4px;
   text-align: left;
   border: 1px solid #000;
+  font-size:150%;
 }
   
 table tr td { 
@@ -416,6 +417,7 @@ table tr td {
   padding: 7px 4px;
   text-align: left;
   border: 1px solid #000;
+  font-size:150%;
 }
 
 
