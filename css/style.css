@@ -421,7 +421,7 @@ table tr td {
 }
 
 
-td > span > a, td > span {
+td span .due {
 	color: #777777;
 	text-decoration:none;
 	}
