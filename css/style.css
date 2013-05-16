@@ -421,7 +421,9 @@ table tr td {
 }
 
 
-
+a .due {
+	color: #c0c0c0;
+	}
 
 
 /**
