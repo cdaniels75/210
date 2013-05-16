@@ -421,7 +421,7 @@ table tr td {
 }
 
 
-.due, .due a{
+td p .due, td p .due a{
 	color: #777777;
 	text-decoration:none;
 	}
