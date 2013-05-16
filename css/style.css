@@ -97,7 +97,6 @@ h4, h6 {
 
 h5, h6 { 
   color: #888;
-  font: italic 95% arial, sans-serif;
   letter-spacing: normal;
   padding: 0 0 15px 0;
 }
@@ -422,7 +421,7 @@ table tr td {
 
 
 tr td h6, tr td h6 a{
-	color: #aee5ff;
+	color: #555555;
 	text-decoration:none;
 	}
 
