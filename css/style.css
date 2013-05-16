@@ -422,6 +422,7 @@ table tr td {
 
 
 tr td h6, tr td h6 a{
+	font-size: 140%;
 	color: #555555;
 	text-decoration:none;
 	}
