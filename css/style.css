@@ -405,7 +405,7 @@ table {
 table tr th { 
   background: transparent url(../images/transparent.png);
   color: #69ffa1;
-  padding: 7px 4px;
+  padding: 7px 4px 0 4px;
   text-align: left;
   border: 1px solid #000;
   font-size:14px;
@@ -414,7 +414,7 @@ table tr th {
 table tr td { 
   background: transparent url(../images/transparent.png);
   color: #fff;
-  padding: 7px 4px;
+  padding: 7px 4px 0 4px;
   text-align: left;
   border: 1px solid #000;
   font-size:14px;
