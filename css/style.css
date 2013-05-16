@@ -421,7 +421,7 @@ table tr td {
 }
 
 
-td h6, td h6 a{
+tr td h6, tr td h6 a{
 	color: #aee5ff;
 	text-decoration:none;
 	}
