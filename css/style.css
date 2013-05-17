@@ -99,7 +99,7 @@ h5, h6 {
   color: #888;
   font-size: 140%;
   letter-spacing: normal;
-  padding: 0 0 15px 0;
+
 }
 
 a, a:hover { 
@@ -403,7 +403,7 @@ table {
 table tr th { 
   background: transparent url(../images/transparent.png);
   color: #69ffa1;
-  padding: 7px 4px 0 4px;
+  padding: 10px;
   text-align: left;
   border: 1px solid #000;
   font-size:14px;
@@ -412,7 +412,7 @@ table tr th {
 table tr td { 
   background: transparent url(../images/transparent.png);
   color: #fff;
-  padding: 7px 4px 0 4px;
+  padding: 10px;
   text-align: left;
   border: 1px solid #000;
   font-size:14px;
