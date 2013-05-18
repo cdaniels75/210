@@ -425,7 +425,16 @@ tr td h6, tr td h6 a{
 	text-decoration:none;
 	}
 
-
+tr td .little {
+	text-align:center;
+	}
+tr td .big {
+	text-align:center;
+	font-size:24px;
+	margin-bottom:0;
+	padding-bottom:0;
+	}
+	
 /**
 Stylesheet for SooperFish by www.SooperThemes.com
 Author: Jurriaan Roelofs
